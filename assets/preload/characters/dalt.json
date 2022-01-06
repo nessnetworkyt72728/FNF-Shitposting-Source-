@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				4,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Dalt IDLE"
+		},
+		{
+			"offsets": [
+				-1,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Dalt DOWN"
+		},
+		{
+			"offsets": [
+				-8,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Dalt UP"
+		},
+		{
+			"offsets": [
+				-7,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "enough",
+			"indices": [],
+			"name": "Dalt ENOUGH"
+		},
+		{
+			"offsets": [
+				-7,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shoot",
+			"indices": [],
+			"name": "Dalt SHOOT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-21
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Dalt RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-12
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dalt LEFT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DaltMb",
+	"position": [
+		-160,
+		180
+	],
+	"healthicon": "dalt",
+	"flip_x": true,
+	"healthbar_colors": [
+		95,
+		255,
+		82
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,115 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-287,
+				126
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "idle",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-251,
+				177
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "idle-alt"
+		},
+		{
+			"offsets": [
+				-223,
+				295
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-76,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-332,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-5,
+				38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-254,
+				175
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "switch",
+			"indices": [],
+			"name": "switch"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Davihh-mad",
+	"position": [
+		-430,
+		320
+	],
+	"healthicon": "davihh",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		0,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.95
+}
